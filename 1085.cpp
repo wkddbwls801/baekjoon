@@ -25,5 +25,4 @@ int main() {
 
 	cout << shortest << "\n";
 
-	return 0;
 }
