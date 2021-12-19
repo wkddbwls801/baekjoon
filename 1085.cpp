@@ -1,4 +1,4 @@
-// �簢������ Ż��
+// 사각형에서 탈출하기
 
 #include<iostream>
 #include<cmath>
