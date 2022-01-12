@@ -1,4 +1,4 @@
-// ³× ¼ö
+// ë„¤ ìˆ˜
 
 #include<iostream>
 #include<cmath>
@@ -8,6 +8,7 @@ using namespace std;
 int main() {
 	ios::sync_with_stdio;
 	cin.tie(NULL);
+	cout.tie(NULL);
 
 	string arr[4];
 	unsigned long long output1;

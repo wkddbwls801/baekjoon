@@ -1,4 +1,4 @@
-// ÁÂÇ¥ Á¤·ÄÇÏ±â 2
+// ì¢Œí‘œ ì •ë ¬í•˜ê¸°2
 
 #include<iostream>
 #include<algorithm>
