@@ -1,13 +1,14 @@
-// ºü¸¥ A+B
+// ë¹ ë¥¸ A+B
 
 #include<iostream>
 using namespace std;
 
 int main() {
 	ios::sync_with_stdio(false);
-	cin.tie(NULL);
+	cin.tie(NULL);	
+	cout.tie(NULL);
 
-	int T;	//Å×½ºÆ® ÄÉÀÌ½º
+	int T;	// í…ŒìŠ¤íŠ¸ ì¼€ì´ìŠ¤
 	int A;
 	int B;
 
