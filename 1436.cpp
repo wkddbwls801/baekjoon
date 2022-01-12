@@ -1,4 +1,4 @@
-// ¿µÈ­°¨µ¶ ¼ò
+// ì˜í™”ê°ë… ìˆŒ
 
 #include<iostream>
 #include<string>
@@ -7,7 +7,7 @@ using namespace std;
 int N;
 
 int FindSeries(int N) {
-	int i = 666;	// Á¦ÀÏ ÀÛÀº ¼ö
+	int i = 666;	// ÃÂ¦Ã€Ã Ã€Ã›Ã€Âº Â¼Ã¶
 	int series = 0;	// count
 	string target;
 
