@@ -1,4 +1,4 @@
-// 2*n Ÿ�ϸ� 2
+// 2*n 타일링 2
 
 #include<iostream>
 using namespace std;
