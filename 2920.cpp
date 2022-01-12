@@ -1,4 +1,4 @@
-// À½°è
+// ìŒê³„
 
 #include<iostream>
 using namespace std;
@@ -8,7 +8,7 @@ int main() {
 	int ascending = 0;
 	int descending = 0;
 
-	// ¼ıÀÚ ÀÔ·Â
+	// ìˆ«ì ì…ë ¥
 	for (int i = 0; i < 8; i++) {
 		cin >> note[i];
 	}
