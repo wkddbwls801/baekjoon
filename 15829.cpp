@@ -5,9 +5,9 @@
 #include<cmath>
 using namespace std;
 
-char str[51];	// ¹®ÀÚ¿­
+char str[51];	// ë¬¸ìì—´
 long long str_hash[51];
-int L;	// ¹®ÀÚ¿­ÀÇ ±æÀÌ
+int L;	// ë¬¸ìì—´ ê¸¸ì´
 long long  H;
 long long temp;
 long long cnt = 1;
