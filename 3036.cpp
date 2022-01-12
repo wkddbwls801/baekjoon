@@ -1,10 +1,10 @@
-// ¸µ
+// ë§
 
 #include<iostream>
 #include<algorithm>
 using namespace std;
 
-int N;	// ¸µÀÇ °³¼ö
+int N;	// ë§ì˜ ê°œìˆ˜
 int r[101];
 
 int gcd(int a, int b) {
@@ -32,7 +32,7 @@ int main() {
 	cin >> N;
 
 	for (int i = 0; i < N; i++) {
-		cin >> r[i];	//r[0]ÀÌ ±âÁØÀÌ µÊ.
+		cin >> r[i];	//r[0]ê°€ ê¸°ì¤€ì´ ë¨
 	}
 
 	for (int i = 1; i < N; i++) {
