@@ -1,4 +1,4 @@
-// 2*n 타일링 2
+// 2*n 타일링2
 
 #include<iostream>
 using namespace std;
